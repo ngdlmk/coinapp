@@ -100,7 +100,7 @@ class Details extends Component  {
     let perc = 0
     const diff = last - first
     if(diff !== 0) {
-      perc = diff * first / 100
+      perc = diff * 100 / first
     }
     return perc
   }
