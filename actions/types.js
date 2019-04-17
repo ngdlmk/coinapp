@@ -1,0 +1,3 @@
+export const FETCH_COINS = 'FETCH_COINS'
+export const SELECT_CURRENCY = 'SELECT_CURRENCY'
+export const FETCH_LIVE_DATA = 'FETCH_LIVE_DATA'
